@@ -33,7 +33,6 @@ Systém pomáhá trenérům, administrátorům i členům mít všechny důleži
 - Nastavení typů permanentek, cen a slev  
 - Evidence plateb a příjmů  
 - Generování přehledů a statistik o návštěvnosti
-- 
 ## Spravovaná data 
 - **Návštěvníci:** jméno, příjmení, kontaktní údaje, datum narození, platnost členství, historie návštěv  
 - **Trenéři:** jméno, specializace, kontaktní údaje, rozvrh lekcí  
